@@ -23,6 +23,7 @@ Paytm is an Indian multinational financial technology company. It specializes in
 <hr>
 
 🔎 Data Exploration
+* Retrieve reports on transaction scenarios
 * Retrieve an overview report of payment types
 * Retrieve an overview report of customer’s payment behaviors
 * Time Series Analysis
